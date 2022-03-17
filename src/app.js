@@ -12,10 +12,10 @@ export default class App extends LightningElement {
     return [
       {
         label: "Learn in the browser.",
-        icon: "utility:edit",
+        icon: "utility:cog",
       },
       {
-        label: "View changes to code instantly with Live Compilation.",
+        label: "Live compilation displayed with code changes.",
         icon: "utility:refresh",
       },
       {
